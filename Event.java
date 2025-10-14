@@ -1,5 +1,6 @@
 /**
  * The Event class represents an event where there is a probability of it triggering and causing damage to the player.
+ * Resource Management Game - Console Version 1.0
  * @author V. Miranda-Calleja
  */
 import java.util.Random;

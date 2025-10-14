@@ -1,6 +1,7 @@
 /**
  * The Resource class represents a generic resource in the game.
  * Resources have a name, a quantity, and a status of critical or not critical.
+ * Resource Management Game - Console Version 1.0
  * @author V. Miranda-Calleja
  */
 import java.util.ArrayList;

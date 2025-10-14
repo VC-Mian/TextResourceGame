@@ -1,5 +1,6 @@
 /**
  * One of the generators that can constructed by using the resources in the game.
+ * Resource Management Game - Console Version 1.0
  * @author V. Miranda-Calleja
  */
 import java.util.ArrayList;

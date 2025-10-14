@@ -1,6 +1,7 @@
 /**
  * The Generator class represents a generic resource generating item in the game.
  * Generators have a name, a construction cost, and a resource production rate.
+ * Resource Management Game - Console Version 1.0
  * @author V. Miranda-Calleja
  */
 import java.util.ArrayList;
