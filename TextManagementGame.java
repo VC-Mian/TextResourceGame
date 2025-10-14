@@ -1,5 +1,7 @@
 /**
- *  The TextManagementGame class represents a text-based management game where the player manages resources and resource generators. Along with several methods to aid the games structure.
+ *  The TextManagementGame class represents a text-based management game where the player manages resources 
+ *  and resource generators. Along with several methods to aid the games structure.
+ *  Console Version 1.0 - Before GUI Implementation
  *  @author V. Miranda-Calleja
  */
 
