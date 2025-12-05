@@ -1,5 +1,7 @@
 # Text Management Game
 
+> **📍 STATUS:** Command-Line Portion Complete(main), GUI integration Prototype (gui branch)
+
 A command-line resource management game built in Java that challenges players to survive and accumulate resources while managing health and defending against random events.
 
 ## 🎮 Game Overview
